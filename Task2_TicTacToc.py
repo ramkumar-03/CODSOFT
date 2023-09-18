@@ -1,3 +1,6 @@
+# Ramkumar Arcot Dharmalingam || AI || [CODSOFT]
+# TIC-TAC-TOE AI
+
 import random
 
 # Constants for the players
