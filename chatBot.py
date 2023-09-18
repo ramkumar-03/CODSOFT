@@ -1,3 +1,6 @@
+# Ramkumar Arcot Dharmalingam || AI || [CODSOFT]
+# CHATBOT WITH RULE-BASED RESPONSES
+
 import re
 
 def simple_chatbot(user_input):
